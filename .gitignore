@@ -20,6 +20,13 @@
 # production
 /build
 
+# mastra
+mastra.db
+mastra.db-shm
+mastra.db-wal
+mastra.duckdb
+mastra.duckdb.wal
+
 # misc
 .DS_Store
 *.pem
